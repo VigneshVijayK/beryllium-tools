@@ -1,8 +1,11 @@
 # ROM Flashing Toolkit for Beryllium /POCOPHONE F1/POCO F1
 
-This project provides a simple way to extract and flash custom ROMs using
-pre-configured scripts and platform tools.
+This project is a **lightweight flashing toolkit** for the Xiaomi **Poco F1**, created as an **alternative to Mi Flash Tool**.  
+Mi Flash Tool is known to frequently throw errors during the flashing process.
+This tool required **bootloader** unlocked device and this tool **will not lock bootloader**.
+This toolkit uses **ADB & Fastboot** directly, with a simple automated batch script, making it **more stable and error-free**.
 
+---
 ---
 
 ## 📂 Project Structure
