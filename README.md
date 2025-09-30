@@ -1,4 +1,4 @@
-# ROM Extraction & Flashing Toolkit for Beryllium /POCOPHONE F1/POCO F1
+# ROM Flashing Toolkit for Beryllium /POCOPHONE F1/POCO F1
 
 This project provides a simple way to extract and flash custom ROMs using
 pre-configured scripts and platform tools.
